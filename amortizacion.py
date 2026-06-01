@@ -4,10 +4,7 @@ Facultad de Ciencias
 Proyecto Matemáticas Financieras
 
 Grupo: 9015
-Alumnos: 
-  Delgadillo Fernández Patricio Santiago
-  Hernandez Atenco Irvin Armando
-  Gónzalez Madrid Joan Ivan
+Alumno: 
   Roque Barajas Héctor David
 
 Profesores:
@@ -104,10 +101,7 @@ with st.expander("📋 Información del Proyecto", expanded=True):
     **Proyecto: Matemáticas Financieras**  
     **Grupo:** 9015  
     
-    **Alumnos:**
-    - Delgadillo Fernández Patricio Santiago
-    - Hernandez Atenco Irvin Armando
-    - González Madrid Joan Ivan
+    **Alumno:**
     - Roque Barajas Héctor David
     
     **Profesores:**
